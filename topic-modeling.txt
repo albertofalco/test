@@ -1,0 +1,10 @@
+nltk
+pandas
+numpy
+matplotlib
+tqdm
+spacy
+unidecode
+scikit-learn
+pyLDAvis
+importlib-metadata==4.13.0
